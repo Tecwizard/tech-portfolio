@@ -5,6 +5,9 @@
   "version": "0.2.15",
   "author": "LekoArts",
   "license": "0BSD",
+  "engines": {
+    "node": "22.x"
+  },
   "starter-name": "gatsby-starter-portfolio-cara",
   "scripts": {
     "build": "gatsby build",
@@ -24,7 +27,7 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@types/node": "^20.14.10",
+    "@types/node": "^22.15.2",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "cross-env": "^7.0.3",
